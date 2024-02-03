@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5919320428621501108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5919320428621501110}
+  - component: {fileID: 5919320428621501111}
+  - component: {fileID: 5919320428621501113}
+  - component: {fileID: 5919320428621501112}
+  m_Layer: 0
+  m_Name: HarnessManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5919320428621501110
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5919320428621501108}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5919320428621501111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5919320428621501108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 588bdc177b26c03459f681702b6fce6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  harnessPrefabs:
+  - {fileID: 974507218235888863, guid: 4ef8d5596095bc5488a12fb9b46ff3a5, type: 3}
+  - {fileID: 1000946495812917819, guid: 40d314ba4e0ed7947a2e8d202f4ad4f9, type: 3}
+  - {fileID: 6841388839642131056, guid: f1f9fb3044f641d469eb5610f657b4c1, type: 3}
+  - {fileID: 2154663609932819397, guid: acd1f57dc20c5e94a98a29cab19c43f1, type: 3}
+  - {fileID: 8836232656634963256, guid: d1fabe5d20715724a9c9e1ee50410737, type: 3}
+  - {fileID: 2981186115332837411, guid: da1ba5591a277354fb2e05dd62f431f0, type: 3}
+  - {fileID: 6793728969317416850, guid: 7c175b57d9c70b6468a159057440294c, type: 3}
+  - {fileID: -6094152292584129817, guid: bfb57b1c941fd564cbd0ad847bfe3e0e, type: 3}
+  - {fileID: 8510405942775884425, guid: fec102abb7e96224fabf57f3877e8440, type: 3}
+  - {fileID: 735557273466973158, guid: 61fb8caa715bc2549b604356d7650d0e, type: 3}
+  - {fileID: 4955752095934150355, guid: 051089fa54a6c284396068d2d6482748, type: 3}
+  - {fileID: 7460957971964672093, guid: fc23d2a7faa6c6a4db33f69bc013237d, type: 3}
+  - {fileID: 227190758635343226, guid: 5aa35d9dc93cd4e4ab4a8afe310c0a93, type: 3}
+  - {fileID: 5764711394989213560, guid: 240a9c4dac3aee84dbb8c15bd237467f, type: 3}
+  - {fileID: 3922015526398176307, guid: 901c5cb2e86158649830516df14ef8ca, type: 3}
+  - {fileID: 9070538760644770436, guid: ee4bbe4819c2203499dc2959be93b26d, type: 3}
+  - {fileID: 3757516721459428995, guid: b5b739b30aaf3f243b45b100edeb5e26, type: 3}
+  - {fileID: 3862204416127451763, guid: 3b1380b199b8aee4b94e56882f837cb2, type: 3}
+  - {fileID: 2361837206941099545, guid: 112acb56a35694f45b9bb3e5cae5c7a4, type: 3}
+  - {fileID: 3988248539716567842, guid: d5f214dfcb1d318439b9bd7582d96cbc, type: 3}
+  - {fileID: 6470445238626224228, guid: edd4f03728fd5ec48b098de6e6b54cb3, type: 3}
+  - {fileID: 1625681307756406361, guid: fbbfcbb124eed5f4f89f6ed64dd6fd1f, type: 3}
+  - {fileID: 2016012865445178734, guid: 8870664fe6cf18e44a53c109974de6fc, type: 3}
+  - {fileID: 3107020608554483008, guid: 0ea997c620105464d889c3795db98bb8, type: 3}
+  harnessTheme: {fileID: 5919320428621501113}
+  harnessItemInfos:
+  - type: 0
+    details:
+    - name: PN 01
+      icon: {fileID: 0}
+    - name: PN 02
+      icon: {fileID: 0}
+    - name: PN 03
+      icon: {fileID: 0}
+    - name: PN 10(S)
+      icon: {fileID: 0}
+    - name: PN 11
+      icon: {fileID: 0}
+    - name: PN 12
+      icon: {fileID: 0}
+    - name: PN 15(IS)
+      icon: {fileID: 0}
+    - name: PN 20
+      icon: {fileID: 0}
+    - name: PN 21
+      icon: {fileID: 0}
+    - name: PN 22(AS)
+      icon: {fileID: 0}
+    - name: PN 22(DE)
+      icon: {fileID: 0}
+    - name: PN 22(FR)
+      icon: {fileID: 0}
+    - name: PN 22
+      icon: {fileID: 0}
+    - name: PN 23
+      icon: {fileID: 0}
+    - name: PN 24(OR)
+      icon: {fileID: 0}
+    - name: PN 24(QR)
+      icon: {fileID: 0}
+    - name: PN 24
+      icon: {fileID: 0}
+    - name: PN 25
+      icon: {fileID: 0}
+    - name: PN 26
+      icon: {fileID: 0}
+    - name: PN 30(IS)
+      icon: {fileID: 0}
+    - name: PN 31
+      icon: {fileID: 0}
+    - name: PN 32
+      icon: {fileID: 0}
+    - name: PN 35(IS)
+      icon: {fileID: 0}
+    - name: PN 42(DE)
+      icon: {fileID: 0}
+    - name: PN 42(FR)
+      icon: {fileID: 0}
+    - name: PN 43
+      icon: {fileID: 0}
+    - name: PN 44(OR)
+      icon: {fileID: 0}
+    - name: PN 45
+      icon: {fileID: 0}
+    - name: PN 46(OR)
+      icon: {fileID: 0}
+    - name: PN 56
+      icon: {fileID: 0}
+    - name: PN 57
+      icon: {fileID: 0}
+    - name: PN 74
+      icon: {fileID: 0}
+    - name: PN 94
+      icon: {fileID: 0}
+    - name: PN-Mahna 01
+      icon: {fileID: 21300000, guid: d2908ce00a763483994b892986dd4c96, type: 3}
+    - name: PN-Mahna 02
+      icon: {fileID: 21300000, guid: d8d5a62929b594e7b9300cdf2f6e102a, type: 3}
+    - name: PN-Mahna 03
+      icon: {fileID: 21300000, guid: ac8e6ef7a202d42589913dbd7cbee56f, type: 3}
+    - name: PN-Pictire
+      icon: {fileID: 0}
+--- !u!114 &5919320428621501113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5919320428621501108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6764f8ea43f2740baf334598554e1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allVariations:
+  - Type: 1
+    AvaliableMatrials:
+    - material: {fileID: 2100000, guid: 897ad19c2d8fe03448a2b86ac481ec14, type: 2}
+      sprite: {fileID: 21300000, guid: fd133bab19bdd1d4496ed6cb8ceddeb0, type: 3}
+    - material: {fileID: 2100000, guid: 70f425a61ecfa024f95cec1abcca572b, type: 2}
+      sprite: {fileID: 21300000, guid: 401797d9697aa2049813d7d3df686d67, type: 3}
+    - material: {fileID: 2100000, guid: 2e3bc4f9b61d38443b67a962d221693a, type: 2}
+      sprite: {fileID: 21300000, guid: d626a455bc02331418c98ad0a669a3a1, type: 3}
+  - Type: 0
+    AvaliableMatrials:
+    - material: {fileID: 2100000, guid: a1a58ab04ad06fd4d81607a6dbbae9f3, type: 2}
+      sprite: {fileID: 21300000, guid: e8990b9b3a1a7d34ba73a7ec5f94177a, type: 3}
+    - material: {fileID: 2100000, guid: 0125daa43547aed49b4da349bde3fa4c, type: 2}
+      sprite: {fileID: 21300000, guid: b849b7478376de0469083f31c537c4a0, type: 3}
+    - material: {fileID: 2100000, guid: 008baa94c8271914189929eade4afc76, type: 2}
+      sprite: {fileID: 21300000, guid: 2deb20e193705754399b04ebf5f83b47, type: 3}
+  - Type: 2
+    AvaliableMatrials:
+    - material: {fileID: 2100000, guid: 5e5b35af1c1cb0d45b029ad92727961e, type: 2}
+      sprite: {fileID: 21300000, guid: 87f1e7db27bcc6141b7a6d66743153e9, type: 3}
+    - material: {fileID: 2100000, guid: e8507593f06680e4abc302824f6e32f9, type: 2}
+      sprite: {fileID: 21300000, guid: ec1064c76ea24d248ac2ac2fb5e66c88, type: 3}
+    - material: {fileID: 2100000, guid: e75f62d8a9247ce448d14d045cc850c8, type: 2}
+      sprite: {fileID: 21300000, guid: 8c334396258aedc46be06a10b69179e6, type: 3}
+  - Type: 3
+    AvaliableMatrials:
+    - material: {fileID: 2100000, guid: a1a58ab04ad06fd4d81607a6dbbae9f3, type: 2}
+      sprite: {fileID: 21300000, guid: e8990b9b3a1a7d34ba73a7ec5f94177a, type: 3}
+    - material: {fileID: 2100000, guid: 0125daa43547aed49b4da349bde3fa4c, type: 2}
+      sprite: {fileID: 21300000, guid: b849b7478376de0469083f31c537c4a0, type: 3}
+    - material: {fileID: 2100000, guid: 008baa94c8271914189929eade4afc76, type: 2}
+      sprite: {fileID: 21300000, guid: 2deb20e193705754399b04ebf5f83b47, type: 3}
+  - Type: 5
+    AvaliableMatrials:
+    - material: {fileID: 2100000, guid: 897ad19c2d8fe03448a2b86ac481ec14, type: 2}
+      sprite: {fileID: 21300000, guid: fd133bab19bdd1d4496ed6cb8ceddeb0, type: 3}
+    - material: {fileID: 2100000, guid: 2e3bc4f9b61d38443b67a962d221693a, type: 2}
+      sprite: {fileID: 21300000, guid: d626a455bc02331418c98ad0a669a3a1, type: 3}
+    - material: {fileID: 2100000, guid: 70f425a61ecfa024f95cec1abcca572b, type: 2}
+      sprite: {fileID: 21300000, guid: 401797d9697aa2049813d7d3df686d67, type: 3}
+  - Type: 4
+    AvaliableMatrials:
+    - material: {fileID: 2100000, guid: a1a58ab04ad06fd4d81607a6dbbae9f3, type: 2}
+      sprite: {fileID: 21300000, guid: e8990b9b3a1a7d34ba73a7ec5f94177a, type: 3}
+    - material: {fileID: 2100000, guid: 0125daa43547aed49b4da349bde3fa4c, type: 2}
+      sprite: {fileID: 21300000, guid: b849b7478376de0469083f31c537c4a0, type: 3}
+    - material: {fileID: 2100000, guid: 008baa94c8271914189929eade4afc76, type: 2}
+      sprite: {fileID: 21300000, guid: 2deb20e193705754399b04ebf5f83b47, type: 3}
+--- !u!114 &5919320428621501112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5919320428621501108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7970de48295f8dd4d90ccd005c8ce146, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  harnessManager: {fileID: 5919320428621501111}
+  ZoomSpeed: -0.01

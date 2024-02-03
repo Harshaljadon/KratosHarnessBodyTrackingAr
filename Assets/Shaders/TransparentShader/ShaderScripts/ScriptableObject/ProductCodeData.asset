@@ -1,0 +1,644 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef66c062b9f645e9bde51fbed5cd5cb, type: 3}
+  m_Name: ProductCodeData
+  m_EditorClassIdentifier: 
+  mappings:
+  - equipmentTypeName: Face- eyeGalss
+    productType: 0
+    productFilter:
+      productTypeCATAGORIES: 0
+      productCode: []
+  - equipmentTypeName: Face- helmet
+    productType: 0
+    productFilter:
+      productTypeCATAGORIES: 1
+      productCode: []
+  - equipmentTypeName: Face - Mask
+    productType: 0
+    productFilter:
+      productTypeCATAGORIES: 2
+      productCode:
+      - 
+  - equipmentTypeName: Body
+    productType: 1
+    productFilter:
+      productTypeCATAGORIES: 3
+      productCode:
+      - FA10202XX
+      - FA10206XXA
+      - FA10205XXA
+      - FA1020400
+      - FA10217XX
+      - FA10117XX
+      - FA10107XXA
+      - FA10111XX
+      - FA10105XXA
+      - FA1010400
+      - FA10104XXA
+      - FA1030300
+      - FA1010200
+      - FA1010300
+      - FA1010500
+      - FA1030200
+      - FA1030100
+      - FA10207XX
+      - FA1010800
+      - FA1020300
+      - FA1021300
+      - FA1020500
+      - FA1010600
+      - FA1040200
+      - FA1040100
+      - FA1011500
+      - FA10114XXA
+      - FA1030400
+      - FA10204XXA
+      - FA10404XX
+      - FA10201XX
+      - FA10101XX
+      - FA10219XX
+      - FA10218XX
+  - equipmentTypeName: hand
+    productType: 2
+    productFilter:
+      productTypeCATAGORIES: 4
+      productCode:
+      - 
+  - equipmentTypeName: Leg
+    productType: 3
+    productFilter:
+      productTypeCATAGORIES: 5
+      productCode:
+      - 
+  wrokStationDetail:
+    currentUrl: https://kratossafety.com/en/harnesses-and-belts/10-harness-fly-in-3-s-m.html
+    icons:
+    - {fileID: 21300000, guid: 2e2dec27b060b49b5bbf5edc68a4c1cd, type: 3}
+    - {fileID: 21300000, guid: 50277f69ae24948d58d7effcfd59fa20, type: 3}
+    - {fileID: 21300000, guid: 84474c871838b4869b06c952181ff99a, type: 3}
+    - {fileID: 21300000, guid: ec420a20e375340c59badd9bdb5504c3, type: 3}
+    - {fileID: 21300000, guid: 90090676d38604c99b0ac0b491a11851, type: 3}
+    - {fileID: 21300000, guid: 71b751e4d64804ba1a2ea1fff33eada3, type: 3}
+    - {fileID: 21300000, guid: b0f009f22a3f64e53872958a206dd7f5, type: 3}
+    - {fileID: 21300000, guid: 373d9145b7194422ba6d510c6f856e55, type: 3}
+    - {fileID: 21300000, guid: 1f7e3da56116b4cb0ae6d9f295b667c8, type: 3}
+    - {fileID: 21300000, guid: bf4eee9bee8874f31a2cf4b4aae78866, type: 3}
+    - {fileID: 21300000, guid: 7d34eab0b900e45e89b0415611891c37, type: 3}
+    - {fileID: 21300000, guid: b3b61c56656de4b89ac1de1d0566880a, type: 3}
+    - {fileID: 21300000, guid: 56500cc0db0604b84b2731aa3f7fe6b5, type: 3}
+    - {fileID: 21300000, guid: 4860b5148378e4682aafc20223006114, type: 3}
+    harnessWorkStationCatagory:
+    - HarnessNameCode: FA10202XX
+      HarnessWrokDes: Body harness 2 attachment points with belt | FA10202XX  Body
+        harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1020200
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/10-harness-fly-in-3-s-m.html
+      - codeNumber: FA1020201
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/895-harness-fly-in-3-m-l.html
+      - codeNumber: FA1020202
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/239-harness-fly-in-3-l-xxl.html
+      workStationCatagories: 050000000d0000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020200
+        - FA1020200
+        - FA1020201
+        - FA1020202
+        - FA1020202
+    - HarnessNameCode: FA10206XXA
+      HarnessWrokDes: Suspension Body harness with automatic buckles | FA10206XXA
+        Body harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1020600A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/650-suspension-body-harness-comfort-with-automatic-buckles-s-m.html
+      - codeNumber: FA1020601A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/723-speed-air-5-suspension-harness-2-attachment-points-with-comfortable-belt-m-l.html
+      - codeNumber: FA1020602A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/883-speed-air-5-suspension-harness-2-attachment-points-with-comfortable-belt-l-xxl.html
+      workStationCatagories: 04000000050000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020600A
+        - FA1020600A
+        - FA1020601A
+        - FA1020602A
+        - FA1020602A
+    - HarnessNameCode: FA10205XXA
+      HarnessWrokDes: Body harness 2 attachment points with belt and automatic buckel
+        | FA10205XXA Body harness with 1 dorsal D-Ring, 1 sternal attachment and
+        2 lateral D-Rings for work positioning
+      productUrls:
+      - codeNumber: FA1020500A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/561-body-harness-2-attachment-points-with-belt-and-automatic-buckles.html
+      - codeNumber: FA1020501A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/669-body-harness-2-attachment-points-with-belt-and-automatic-buckles.html
+      workStationCatagories: 03000000020000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020500A
+        - FA1020500A
+        - FA1020501A
+        - FA1020501A
+        - FA1020501A
+    - HarnessNameCode: FA1020400
+      HarnessWrokDes: Body harness 2 attachment points with belt      |      FA1020400
+        Body harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1020400
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/22-harnais-antichute-fa-10-204-00.html
+      workStationCatagories: 0600000005000000020000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020400
+        - FA1020400
+        - FA1020400
+        - FA1020400
+        - FA1020400
+    - HarnessNameCode: FA10217XX
+      HarnessWrokDes: Body harness 2 attachment points with belt | FA10217XX Body
+        harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1021700
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/773-speed-air-3-full-body-harness-2-attachment-points-with-comfortable-belt.html
+      - codeNumber: FA1021701
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/774-speed-air-3-full-body-harness-2-attachment-points-with-comfortable-belt.html
+      - codeNumber: FA1021702
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/884-speed-air-3-full-body-harness-2-attachment-points-with-comfortable-belt.html
+      workStationCatagories: 0300000005000000090000000b0000000a000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1021700
+        - FA1021700
+        - FA1021701
+        - FA1021702
+        - FA1021702
+    - HarnessNameCode: FA10117XX
+      HarnessWrokDes: Speed'Air 2 Body harness 2 attachment points with belt | FA10117XX
+        Body harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1011700
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/770-speed-air-2-full-body-harness-2-attachment-points.html
+      - codeNumber: FA1011701
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/771-speed-air-2-full-body-harness-2-attachment-points.html
+      - codeNumber: FA1011702
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/890-speed-air-2-full-body-harness-2-attachment-points.html
+      workStationCatagories: 0300000005000000090000000b0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1011700
+        - FA1011700
+        - FA1011701
+        - FA1011702
+        - FA1011702
+    - HarnessNameCode: FA10107XXA
+      HarnessWrokDes: Body harness 2 attachment points with belt | FA10107XXA Body
+        harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1010700A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/888-move-3-scaffolder-harness-s-l.html
+      - codeNumber: FA1010701A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/889-move-3-scaffolder-harness-l-xxl.html
+      workStationCatagories: 0a0000000b0000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010700A
+        - FA1010700A
+        - FA1010701A
+        - FA1010701A
+        - FA1010701A
+    - HarnessNameCode: FA10111XX
+      HarnessWrokDes: Body harness 3 attachment points with belt      |    FA10111XX
+        Body harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1011100
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/332-full-body-harness-3-attachment-points-s-l.html
+      - codeNumber: FA1011101
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/333-harnais-antichute-3-points-d-accrochage-avec-3-boucles-automatiques-s-l.html
+      workStationCatagories: 0300000001000000020000000c0000000c000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1011100
+        - FA1011100
+        - FA1011101
+        - FA1011101
+        - FA1011101
+    - HarnessNameCode: FA10105XXA
+      HarnessWrokDes: Body harness 2 attachment points with automatic buckel | FA10105XXA 
+        \n Body harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral
+        D-Rings for work positioning
+      productUrls:
+      - codeNumber: FA1010500A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/560-body-harness-2-attachment-points-with-automatic-buckles.html
+      - codeNumber: FA1010501A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/652-body-harness-2-attachment-points-with-automatic-buckles.html
+      workStationCatagories: 000000000c0000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010500A
+        - FA1010500A
+        - FA1010501A
+        - FA1010501A
+        - FA1010501A
+    - HarnessNameCode: FA1010400
+      HarnessWrokDes: Body harness 2 attachment points      |      FA1010400 \n Body
+        harness with 1 dorsal D-Ring, 1 sternal attachment and 2 lateral D-Rings
+        for work positioning
+      productUrls:
+      - codeNumber: FA1010400
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/25-body-harness-2-attachment-points.html
+      workStationCatagories: 010000000d0000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010400
+        - FA1010400
+        - FA1010400
+        - FA1010400
+        - FA1010400
+    - HarnessNameCode: FA10104XXA
+      HarnessWrokDes: Body harness 2 attachment points with a work positioning belt
+        | FA10104XXA Body harness with 1 dorsal D-Ring, 1 sternal attachment and
+        2 lateral D-Rings for work positioning
+      productUrls:
+      - codeNumber: FA1010400A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/886-ximo-1-comfortable-full-body-harness-2-attachment-points-s-l.html
+      - codeNumber: FA1010401A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/887-ximo-1-comfortable-full-body-harness-2-attachment-points-l-xxl.html
+      workStationCatagories: 0a000000010000000c0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010400A
+        - FA1010400A
+        - FA1010401A
+        - FA1010401A
+        - FA1010401A
+    - HarnessNameCode: FA1030300
+      HarnessWrokDes: Full body harness with orange high visibility work vest| FA1030300
+        Body harness with 1 dorsal D-Ring, 2 chest attachment textile loops
+      productUrls:
+      - codeNumber: FA1030300
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/30-harnais-antichute-fa1030300.html
+      workStationCatagories: 0a0000000300000000000000040000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1030300
+        - FA1030300
+        - FA1030300
+        - FA1030300
+        - FA1030300
+    - HarnessNameCode: FA1010200
+      HarnessWrokDes: Body harness 1 attachment point| FA1010200 Body harness with
+        1 dorsal D-Ring for fall arrest
+      productUrls:
+      - codeNumber: FA1010200
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/32-harnais-fa1010200.html
+      workStationCatagories: 00000000060000000c0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010200
+        - FA1010200
+        - FA1010200
+        - FA1010200
+        - FA1010200
+    - HarnessNameCode: FA1010300
+      HarnessWrokDes: Body harness 2 attachment points | FA1010300 Body harness with
+        1 dorsal D-Ring and 2 chest attachment textile loops for fall arrest
+      productUrls:
+      - codeNumber: FA1010300
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/33-harnais-fa1010300.html
+      workStationCatagories: 000000000a000000060000000b00000009000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010300
+        - FA1010300
+        - FA1010300
+        - FA1010300
+        - FA1010300
+    - HarnessNameCode: FA1010500
+      HarnessWrokDes: Body harness 2 attachment points | FA1010500 Body harness with
+        1 dorsal and 1 sternal D-Ring on sternal strap
+      productUrls:
+      - codeNumber: FA1010500
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/26-harnais-antichute-fa1010500.html
+      workStationCatagories: 000000000c0000000b0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010500
+        - FA1010500
+        - FA1010500
+        - FA1010500
+        - FA1010500
+    - HarnessNameCode: FA1030200
+      HarnessWrokDes: Full body harness with yellow high visibility work vest| FA1030200 
+        with 1 dorsal D-Ring and and 2 chest attachment textile loops, 2 automatic
+        buckles
+      productUrls:
+      - codeNumber: FA1030200
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/31-harnais-antichute-fa1030200.html
+      workStationCatagories: 0a0000000300000000000000040000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1030200
+        - FA1030200
+        - FA1030200
+        - FA1030200
+        - FA1030200
+    - HarnessNameCode: FA1030100
+      HarnessWrokDes: Full body harness with multi-pocket work vest| FA1030100  with
+        1 dorsal D-Ring and and 2 chest attachment textile loops, automatic buckles
+      productUrls:
+      - codeNumber: FA1030100
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/29-full-body-harness-with-multi-pocket-work-vest.html
+      workStationCatagories: 0a000000030000000b0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1030100
+        - FA1030100
+        - FA1030100
+        - FA1030100
+        - FA1030100
+    - HarnessNameCode: FA10207XX
+      HarnessWrokDes: Body harness 2 attachment points with rotative belt | FA10207XX
+        \n Body harness with 1 dorsal and 2 lateral D-Rings for work positioning
+      productUrls:
+      - codeNumber: FA1020700
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/18-harnais-fa-10-207-00.html
+      - codeNumber: FA1020701
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/242-harnais-fa-10-207-01.html
+      - codeNumber: FA1020702
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/896-harnais-fa-10-207-01.html
+      workStationCatagories: 0200000003000000090000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020700
+        - FA1020700
+        - FA1020701
+        - FA1020702
+        - FA1020702
+    - HarnessNameCode: FA1010800
+      HarnessWrokDes: Body harness 1 attachment points | FA1010800 \n Body harness
+        with 1 dorsal D-Rings
+      productUrls:
+      - codeNumber: FA1010800
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/165-harnais-1-point-d-accrochage.html
+      workStationCatagories: 000000000c0000000b0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010800
+        - FA1010800
+        - FA1010800
+        - FA1010800
+        - FA1010800
+    - HarnessNameCode: FA1020300
+      HarnessWrokDes: Body harness 2 attachment points | FA1020300 \n Body harness
+        with 1 dorsal D-Rings, 2 chest attachment textile loops and 2 lateral D-Rings
+      productUrls:
+      - codeNumber: FA1020300
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/34-fa1020300.html
+      workStationCatagories: 0200000009000000060000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020300
+        - FA1020300
+        - FA1020300
+        - FA1020300
+        - FA1020300
+    - HarnessNameCode: FA1021300
+      HarnessWrokDes: Body harness 1 attachment points | FA1021300 \n SUSPENSION
+        Body harness with 1 dorsal,1 sternal,1 ventral and 2 lateral D-Rings
+      productUrls:
+      - codeNumber: FA1021300
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/449-suspension-body-harness-with-work-positioning-belt.html
+      workStationCatagories: 0200000009000000060000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1021300
+        - FA1021300
+        - FA1021300
+        - FA1021300
+        - FA1021300
+    - HarnessNameCode: FA1020500
+      HarnessWrokDes: Body harness 2 attachment points | FA1020500 \n SUSPENSION
+        Body harness with 1 dorsal,1 sternal and 2 lateral D-Rings
+      productUrls:
+      - codeNumber: FA1020500
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/23-body-harness-2-attachment-points-with-belt.html
+      workStationCatagories: 0200000003000000090000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020500
+        - FA1020500
+        - FA1020500
+        - FA1020500
+        - FA1020500
+    - HarnessNameCode: FA1010600
+      HarnessWrokDes: Body harness 2 attachment points | FA1010600 \n SUSPENSION
+        Body harness with 1 dorsal and 1 sternal D-Rings, 1 rescue extension strap
+      productUrls:
+      - codeNumber: FA1010600
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/27-harnais-antichute-fa1010600.html
+      workStationCatagories: 0000000004000000070000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010600
+        - FA1010600
+        - FA1010600
+        - FA1010600
+        - FA1010600
+    - HarnessNameCode: FA1040200
+      HarnessWrokDes: Work Positioning Belt with 2 lateral D-Rings | FA1040200
+      productUrls:
+      - codeNumber: FA1040200
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/35-ceinture-de-maintien-au-travail-fa1040200.html
+      workStationCatagories: 02000000060000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1040200
+        - FA1040200
+        - FA1040200
+        - FA1040200
+        - FA1040200
+    - HarnessNameCode: FA1040100
+      HarnessWrokDes: Comfortable Work Positioning Belt with 2 lateral D-Rings and
+        automatic buckle | FA1040100
+      productUrls:
+      - codeNumber: FA1040100
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/24-ceinture-de-maintien-fa1040100.html
+      workStationCatagories: 02000000060000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1040100
+        - FA1040100
+        - FA1040100
+        - FA1040100
+        - FA1040100
+    - HarnessNameCode: FA1011500
+      HarnessWrokDes: 'REFLEX 4 - Body harness 2 attachment points with high visibility
+        strap | FA1011500  1 chest attachment and 1 Dorsal attachment D-Ring '
+      productUrls:
+      - codeNumber: FA1011500
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/772-reflex-4-body-harness-2-attachment-points-with-high-visibility-strap.html
+      workStationCatagories: 02000000060000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1011500
+        - FA1011500
+        - FA1011500
+        - FA1011500
+        - FA1011500
+    - HarnessNameCode: FA10114XXA
+      HarnessWrokDes: 'REFLEX 4 - Body harness 2 attachment points with high visibility
+        strap | FA10114XXA  1 chest attachment and 1 Dorsal attachment D-Ring '
+      productUrls:
+      - codeNumber: FA1011400A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/768-harness-for-work-in-confined-spaces.html
+      - codeNumber: FA1011401A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/769-harness-for-work-in-confined-spaces.html
+      workStationCatagories: 040000000d0000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1011400A
+        - FA1011400A
+        - FA1011401A
+        - FA1011401A
+        - FA1011401A
+    - HarnessNameCode: FA1030400
+      HarnessWrokDes: REFLEX 3 - Full body harness 2 attachment points with high
+        visibility strap and vest | FA1030400 1 chest attachment D-Ring and 1 Dorsal
+        attachment D-Ring for fall arrest.
+      productUrls:
+      - codeNumber: FA1030400
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/775-reflex-3-full-body-harness-2-attachment-points-with-high-visibility-strap-and-vest.html
+      workStationCatagories: 040000000d0000000d0000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1030400
+        - FA1030400
+        - FA1030400
+        - FA1030400
+        - FA1030400
+    - HarnessNameCode: FA10204XXA
+      HarnessWrokDes: XIMO 2 - Body Harness 2 attachment points with comfortable
+        work positioning belt | FA10204XXA
+      productUrls:
+      - codeNumber: FA1020400A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/879-ximo-2-body-harness-2-attachment-points-with-comfortable-work-positioning-belt-s-l.html
+      - codeNumber: FA1020401A
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/880-ximo-2-body-harness-2-attachment-points-with-comfortable-work-positioning-belt-l-xxl.html
+      workStationCatagories: 0000000002000000010000000400000005000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020400A
+        - FA1020400A
+        - FA1020401A
+        - FA1020401A
+        - FA1020401A
+    - HarnessNameCode: FA10404XX
+      HarnessWrokDes: FLY'IN 4 - Work positioning sit-harness with 1 ventral attachment
+        for rope access | FA10404XX 1 dorsal D-Ring and 2 lateral D-Rings for work
+        positioning
+      productUrls:
+      - codeNumber: FA1040400
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/293-fly-in-4-work-positioning-sit-harness-s-m.html
+      - codeNumber: FA1040401
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/294-fly-in-4-work-positioning-sit-harness.html
+      - codeNumber: FA1040402
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/885-fly-in-4-work-positioning-sit-harness.html
+      workStationCatagories: 0000000002000000010000000400000005000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020400A
+        - FA1020400A
+        - FA1020401A
+        - FA1020401A
+        - FA1020401A
+    - HarnessNameCode: FA10201XX
+      HarnessWrokDes: Harness FLY'IN 2 - Body harness 2 attachment points | FA10201XX 
+        1 dorsal D-Ring, 2 chest attachment textile loops for fall arrest and 2 lateral
+        D-Rings for work positioning
+      productUrls:
+      - codeNumber: FA1020100
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/11-fly-in-2.html
+      - codeNumber: FA1020101
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/240-fly-in-2.html
+      - codeNumber: FA1020102
+        productUrl: https://kratossafety.com/en/module/autosuggest/search?search=FA10201
+      workStationCatagories: 0100000002000000030000000d0000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1020100
+        - FA1020100
+        - FA1020101
+        - FA1020101
+        - FA1020101
+    - HarnessNameCode: FA10101XX
+      HarnessWrokDes: FLY'IN 1 body harness 2 attachment points | FA10101XX - 1 dorsal
+        D-ring and 1 chest attachment made of 2 textile loops
+      productUrls:
+      - codeNumber: FA1010100
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/12-fly-in-1-harness-s-l.html
+      - codeNumber: FA1010101
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/241-fly-in-1-extra-comfort-body-harness-2-attachement-points.html
+      - codeNumber: FA1010102
+        productUrl: https://kratossafety.com/en/harnesses-and-belts/881-fly-in-1-extra-comfort-body-harness-2-attachment-points.html
+      workStationCatagories: 010000000a0000000b000000090000000d000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1010100
+        - FA1010100
+        - FA1010101
+        - FA1010102
+        - FA1010102
+    - HarnessNameCode: FA10219XX
+      HarnessWrokDes: AIRTECH 2 - Harness FA10219XX Suspension harness with extra-comfort
+        belt, 2 attachment points
+      productUrls:
+      - codeNumber: FA1021900
+        productUrl: https://kratossafety.com/en/6-harnesses-and-belts
+      - codeNumber: FA1021901
+        productUrl: https://kratossafety.com/en/6-harnesses-and-belts
+      - codeNumber: FA1021902
+        productUrl: https://kratossafety.com/en/6-harnesses-and-belts
+      workStationCatagories: 010000000a0000000b000000090000000c000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1021900
+        - FA1021900
+        - FA1021901
+        - FA1021902
+        - FA1021902
+    - HarnessNameCode: FA10218XX
+      HarnessWrokDes: AIRTECH 2 - Harness FA10218XX Full body harness 3 attachment
+        points with extra-comfort belt
+      productUrls:
+      - codeNumber: FA1021800
+        productUrl: https://kratossafety.com/en/6-harnesses-and-belts
+      - codeNumber: FA1021801
+        productUrl: https://kratossafety.com/en/6-harnesses-and-belts
+      - codeNumber: FA1021802
+        productUrl: https://kratossafety.com/en/6-harnesses-and-belts
+      workStationCatagories: 010000000a0000000b000000090000000c000000
+      harnessSizeCodename:
+        sizeCodeName:
+        - FA1021800
+        - FA1021800
+        - FA1021801
+        - FA1021802
+        - FA1021802

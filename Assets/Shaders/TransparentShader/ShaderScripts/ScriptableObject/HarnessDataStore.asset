@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6081cb06c974c07802b9808502a4e3, type: 3}
+  m_Name: HarnessDataStore
+  m_EditorClassIdentifier: 
+  productItemScriptableIndex: 32
+  productItemCode: FA10219XX
+  productCatogorie: BODY
+  productSubCatogorie: HARNESS
+  userWeight: 70
+  userMailId: ksone@arresto.in
+  imageUploadUrlQr: https://app.arresto.in/#/ar_media?c=250&media=1697631708.png&p=26617
+  harness: {fileID: 0}
+  collectionHarness:
+  - {fileID: 1589964863, guid: 8cd4137a04c414fa8af64401d3a8a89c, type: 3}
+  - {fileID: 5489409040605344442, guid: 289fc51aa0a2146c1ae32466fa0faf86, type: 3}
+  - {fileID: 855959520, guid: 5921a9805ca1e4c7389b874065dae613, type: 3}
+  - {fileID: 2154624614067303990, guid: b06a060179c7b46049d5e659cbbfaa42, type: 3}
+  - {fileID: 1706041158248135093, guid: c1ab1903a3e66444eafd937ac39ce0c0, type: 3}
+  - {fileID: 3631428974555815516, guid: 2b99530cb557b47569b20b704af0f1c3, type: 3}
+  - {fileID: 135183553561732801, guid: 39b2b942d3ad54e2a9197efb66f647e1, type: 3}
+  - {fileID: 1233279679460103179, guid: fd3bc2a81db714cff9761d710f8951dd, type: 3}
+  - {fileID: 1193508104, guid: 1b33595ce5a504764873b1e3db54a8cb, type: 3}
+  - {fileID: 2469903823145504335, guid: 0912788c0b16549279ed43d4de1b8aaf, type: 3}
+  - {fileID: 986957343, guid: 74c8c3791bb144eaf90d0aa18fc73086, type: 3}
+  - {fileID: 4450879968374989609, guid: fa02cc1fdd72a4d0eacd326b7967162c, type: 3}
+  - {fileID: 4419185511295243819, guid: d30c80bf6586c4e1b984489f5b96072f, type: 3}
+  - {fileID: 4606975400599369633, guid: 3b814890e6dfc4738b14c4705b7e4330, type: 3}
+  - {fileID: 65337313714360388, guid: 02e36dd1973d647d6afa1df15dccfc14, type: 3}
+  - {fileID: 8728149978152037604, guid: 9a0f79f3e0a834b829d9f4ad76c7aafc, type: 3}
+  - {fileID: 8309829657490021500, guid: 7a72dcd8d824f4633918138f9597bfec, type: 3}
+  - {fileID: 3073313508901250556, guid: 8b79f013d25cd46e5aa9dd8aed5ed4da, type: 3}
+  - {fileID: 3790794555615406690, guid: 0bb7417a95ae24d9f8bd3a50bcea082b, type: 3}
+  - {fileID: 6180226158418214042, guid: c69723bbbcdbb4605b997d28ba3301df, type: 3}
+  - {fileID: 4561177937799581988, guid: 3515d0aba78e643b3ac1bba28fd92f41, type: 3}
+  - {fileID: 6341111816592073862, guid: e0c638986a6634930adc9b146cb616a6, type: 3}
+  - {fileID: 2343369301090656797, guid: 26bafa9718b46409b898c0396eaf8efc, type: 3}
+  - {fileID: 1759384011712887208, guid: 8f01c4471d4e947d2889c3b17ca5f6f5, type: 3}
+  - {fileID: 926542131019243639, guid: 1a881207543954786819a793d17df903, type: 3}
+  - {fileID: 615136071501684710, guid: 2b3b68c79d4ce47e3bbb79c2c807ca7d, type: 3}
+  - {fileID: 4926869858574695761, guid: 70c97bb74bedf4c09a2ed49c134e6dbe, type: 3}
+  - {fileID: 5848565610077467603, guid: dc7e7e468910f437982205f9644e3bf5, type: 3}
+  - {fileID: 1599419282625674316, guid: e83fa1b838da84c8c83a84ac2482de45, type: 3}
+  - {fileID: 6435134634744940888, guid: 9b9139be4f6b949bd980773c9d679c72, type: 3}
+  - {fileID: 8005794604322047246, guid: 008032ec32fb840f095066ce09dea2d5, type: 3}
+  - {fileID: 6118149378333269532, guid: 9ce5cea019471474b945f8b0fb4efdcb, type: 3}
+  - {fileID: 122238311874328977, guid: 4aa0253cdaff34e5fbf8802fbe578174, type: 3}
+  - {fileID: 7278515343377483649, guid: f6cc6ff52e0f74b9e9a4bb717b594ce2, type: 3}
+  eyeGlassCollection:
+  - {fileID: -1581224248949138847, guid: 677c729a4772a4877834699852828c7c, type: 3}
+  hemetCollection:
+  - {fileID: 5377915974621017851, guid: 874647dd2c8a64657bf52da9e5fdc782, type: 3}
+  maskCollection: []
+  shoeCollection: []
+  gloveCollection:
+  - {fileID: -4974678642470048557, guid: 1c0b5f8c9b837454ca35e5910b94878f, type: 3}
